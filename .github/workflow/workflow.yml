@@ -1,0 +1,11 @@
+name: workflow
+
+on:
+ push:
+  branch:
+    - main
+  pull-request:
+    branchea
+    - main
+
+  
